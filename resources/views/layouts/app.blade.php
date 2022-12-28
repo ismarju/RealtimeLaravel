@@ -75,7 +75,7 @@
         </nav>
 
         <main class="py-4">
-            <div id="notification" class="alert alert-danger mx-3 "></div>
+            {{-- <div id="notification" class="alert alert-danger mx-3">rrrr</div> --}}
             @yield('content')
         </main>
     </div>
